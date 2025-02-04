@@ -6,7 +6,8 @@ This app simulates a dashboard with invoices related to users data and graphs. U
 ### Usage
 1. Clone the repository
 2. Open a terminal at the project's root (or in the IDE)
-3. run `npm run dev`
+3. run `npm install`
+4. run `npm run dev`
 
 ### Login info
 User: user@nextmail.com
